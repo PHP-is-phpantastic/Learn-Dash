@@ -1,6 +1,7 @@
 # Learn Dash
 I personally like the Learn Dash. It is one of the best learning management systems out there. 
 It can be integrated easily with the plugins like WooCommerce, Easy Digital Downloads, BuddyPress, MemberPress, PayPal, Stripe, etc. 
+Many addons are included in my Repo. 
 The following functionalities can be created with it. 
 
 Multi-tier courses  <br>
